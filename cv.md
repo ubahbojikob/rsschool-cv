@@ -1,9 +1,7 @@
 ### 👋HEY THERE,
-# ** I’m Ivan Volkov. **
+# I’m Ivan Volkov.
 I’m a beginning programmer. I’m glad to welcome you here.With your permission, I will tell you a little about myself
 To begin with, if you want to contact me, at your service are mine:
-
-
 
 > Ok, next. My birthplace is in the center of Europe. What country do you think i talking about…? Maybe it would be great or vice versa!It’s the Republic of Belarus!Yes, yes, where Russia is, side by side 😄
 > I am in Minsk, this is the capital of Belarus
